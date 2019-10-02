@@ -63,7 +63,7 @@ class MusicLibraryController
 
   def play_song
     puts "Which song number would you like to play?"
-    input = gets.strip 
+    input = gets.strip
     binding.pry
   end
 end
