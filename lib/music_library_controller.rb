@@ -44,7 +44,7 @@ class MusicLibraryController
     input = gets.strip
 
     if Artist.find_by_name(input)
-      pry
+      binding.pry
     end
   end
 end
