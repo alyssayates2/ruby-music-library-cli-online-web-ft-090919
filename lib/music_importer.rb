@@ -1,3 +1,4 @@
+require 'pry'
 class MusicImporter
   attr_reader :path
 
@@ -7,6 +8,6 @@ class MusicImporter
 
   def files
 
-  end 
+  end
 
 end
