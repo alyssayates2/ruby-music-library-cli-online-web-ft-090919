@@ -1,5 +1,5 @@
-class MusicLibraryController 
-  def initialize 
+class MusicLibraryController
+  def initialize
 
   end 
-end 
+end
