@@ -38,4 +38,8 @@ class MusicLibraryController
       puts "#{idx}. #{gn.name}"
     end
   end
+
+  def list_songs_by_artist
+    
+  end
 end
